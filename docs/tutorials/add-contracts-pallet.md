@@ -66,7 +66,7 @@ your runtime has. For example, it depends on the
 **`runtime/Cargo.toml`**
 
 ```TOML
-[dependencies.balances]
+[dependencies.pallet-balances]
 default-features = false
 git = 'https://github.com/paritytech/substrate.git'
 package = 'pallet-balances'
